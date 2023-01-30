@@ -11,7 +11,7 @@
     <!--Login Form Starts Here-->
     <h:body class="body">
         <h:form class="model-form">
-            <h2>Please Login First</h2><br/>
+            <h2>Please login here</h2><br/>
             <p>Username</p><br/>
             <h:inputText a:placeholder="Username" class="text" value="#{tblUser.username}"/><br/><br/>
             <p>Password</p><br/>
